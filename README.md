@@ -1,3 +1,4 @@
 # hello-world
-short description sampleworks
+short description sampleworks!
+
 Write a commit message that describes your changes.
